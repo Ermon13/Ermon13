@@ -1,33 +1,18 @@
-# Hi there! 👋 I'm @Ermon13
+# 💫 About Me:
+👀 Interests<br>Web Development: Passionate about creating dynamic and responsive web applications.<br>UI/UX Design: Keen on designing user-friendly interfaces with a focus on user experience.<br>JavaScript Frameworks: Enthusiast of React, Vue, and other modern JavaScript frameworks.<br>Open Source: Love contributing to open-source projects and learning from the community.<br>🌱 Currently Learning<br>Tailwind CSS: Exploring the utility-first CSS framework for rapid UI development.<br>Next.js: Diving into server-side rendering and static site generation with Next.js.<br>TypeScript: Enhancing my JavaScript skills by adopting TypeScript for better type safety.<br>💞️ Looking to Collaborate On<br>Web Development Projects: Open to collaborating on projects that involve frontend and backend development.<br>Open Source Contributions: Excited to contribute to open-source projects and collaborate with other developers.<br>UI/UX Design: Interested in working on projects that require designing intuitive and engaging user interfaces.<br>📫 How to Reach Me<br>Email: ermon13@gmail.com<br>LinkedIn: Ermon13<br>Twitter: @Ermon13<br>😄 Pronouns<br>He/Him<br>⚡ Fun Fact<br>I love experimenting with new technologies and frameworks, and I often participate in hackathons and coding challenges to sharpen my skills. When I'm not coding, you can find me exploring nature trails and capturing beautiful landscapes with my camera.<br>Feel free to explore my repositories and connect with me on social media. Let's build something amazing together!
 
-Welcome to my GitHub profile!
 
-## 👀 Interests
-- **Web Development**: Passionate about creating dynamic and responsive web applications.
-- **UI/UX Design**: Keen on designing user-friendly interfaces with a focus on user experience.
-- **JavaScript Frameworks**: Enthusiast of React, Vue, and other modern JavaScript frameworks.
-- **Open Source**: Love contributing to open-source projects and learning from the community.
+## 🌐 Socials:
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Ermon_13) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ermon_13) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ermon13) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ermon13) 
 
-## 🌱 Currently Learning
-- **Tailwind CSS**: Exploring the utility-first CSS framework for rapid UI development.
-- **Next.js**: Diving into server-side rendering and static site generation with Next.js.
-- **TypeScript**: Enhancing my JavaScript skills by adopting TypeScript for better type safety.
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ermon13&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ermon13&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ermon13&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 💞️ Looking to Collaborate On
-- **Web Development Projects**: Open to collaborating on projects that involve frontend and backend development.
-- **Open Source Contributions**: Excited to contribute to open-source projects and collaborate with other developers.
-- **UI/UX Design**: Interested in working on projects that require designing intuitive and engaging user interfaces.
+---
+[![](https://visitcount.itsvg.in/api?id=Ermon13&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📫 How to Reach Me
-- **Email**: ermon13@gmail.com
-- **LinkedIn**: [Ermon13](https://www.linkedin.com/in/ermon13/)
-- **Twitter**: [@Ermon13](https://twitter.com/Ermon13)
-
-## 😄 Pronouns
-- He/Him
-
-## ⚡ Fun Fact
-- I love experimenting with new technologies and frameworks, and I often participate in hackathons and coding challenges to sharpen my skills. When I'm not coding, you can find me exploring nature trails and capturing beautiful landscapes with my camera.
-
-Feel free to explore my repositories and connect with me on social media. Let's build something amazing together!
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
